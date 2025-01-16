@@ -1,3 +1,3 @@
-# Main Header (prefixed with "hash space to make it bold)
+# Main Header (prefixed with "# space" to make it bold)
 
 My description
